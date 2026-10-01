@@ -1,0 +1,21 @@
+{
+  "name": "bricksid",
+  "version": "1.0.0",
+  "description": "Identify LEGO minifigs and sets from photos, and manage your BricksID collection via the BricksID MCP — scan, catalog, and track BrickLink-backed collections from chat.",
+  "author": {
+    "name": "BricksID",
+    "email": "hello@bricksid.com"
+  },
+  "homepage": "https://bricksid.com",
+  "repository": "https://github.com/lukegabrielactual/bricksid-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "lego",
+    "bricklink",
+    "mcp",
+    "bricksid",
+    "minifig",
+    "collection"
+  ],
+  "logo": "assets/logo.svg"
+}
